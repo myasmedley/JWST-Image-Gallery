@@ -34,6 +34,8 @@ but apply the knowledge and necessary skills gained from lecture to create a fun
 - OS
 - Pandas
 - Urllib
+- Streamlit
+
 
 
 ## Features
@@ -43,9 +45,8 @@ Interesting features:
 
 
 ## Screenshots
-Here is where to find URIs for FITS data: https://buckeyemailosu-my.sharepoint.com/:i:/g/personal/smedley_48_buckeyemail_osu_edu/IQB9cZjK6iFiRJvduFIQXm5nAW6bWQBz4jy-MCvfBE5k5eQ
+Here is where to find URIs for FITS data: "https://github.com/user-attachments/assets/4c0fecc8-9a94-4d5d-a6ae-029d39e27dd6
 "
-
 
 
 ## Setup for Downloading FITS Files
